@@ -1,0 +1,11 @@
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\bin\Debug\net10.0\AshkanCrm.Domain.deps.json
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\bin\Debug\net10.0\AshkanCrm.Domain.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\bin\Debug\net10.0\AshkanCrm.Domain.pdb
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.AssemblyInfoInputs.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.AssemblyInfo.cs
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.csproj.CoreCompileInputs.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\refint\AshkanCrm.Domain.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\AshkanCrm.Domain.pdb
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Domain\obj\Debug\net10.0\ref\AshkanCrm.Domain.dll

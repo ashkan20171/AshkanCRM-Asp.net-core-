@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="AshkanCrm.Application/AshkanCrm.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="AshkanCrm.Domain/AshkanCrm.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infra.Data/">
+    <Project Path="AshkanCrm.Data/AshkanCrm.Data.csproj" />
+  </Folder>
+  <Folder Name="/Infra.IoC/">
+    <Project Path="AshkanCrm.IoC/AshkanCrm.IoC.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="AshkanCrm.Web/AshkanCrm.Web.csproj" />
+  </Folder>
+</Solution>

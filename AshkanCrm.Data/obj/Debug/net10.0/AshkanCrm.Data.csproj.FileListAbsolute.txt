@@ -1,0 +1,14 @@
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Data.deps.json
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Data.runtimeconfig.json
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Data.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Data.pdb
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.csproj.AssemblyReference.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.AssemblyInfoInputs.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.AssemblyInfo.cs
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.csproj.CoreCompileInputs.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\refint\AshkanCrm.Data.dll
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.pdb
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.genruntimeconfig.cache
+E:\project\Asp.net\AshkanCrm\AshkanCrm.Data\obj\Debug\net10.0\ref\AshkanCrm.Data.dll

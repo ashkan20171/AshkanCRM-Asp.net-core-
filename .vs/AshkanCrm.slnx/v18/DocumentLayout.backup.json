@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\Asp.net\\AshkanCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD81DF0-5AA2-4E77-B0EB-8F823778A7FA}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD81DF0-5AA2-4E77-B0EB-8F823778A7FA}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD81DF0-5AA2-4E77-B0EB-8F823778A7FA}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FD81DF0-5AA2-4E77-B0EB-8F823778A7FA}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Startup.cs",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Startup.cs",
+              "RelativeToolTip": "AshkanCrm.Web\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T07:49:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\appsettings.json",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\appsettings.json",
+              "RelativeToolTip": "AshkanCrm.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T07:42:14.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
