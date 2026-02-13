@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_chatlauncher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_chatlauncher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_rightsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_rightsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_leftsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_leftsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AshkanCrm.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAANkCAAAAAAAAAAAYwPMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:37:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ChatLauncher.cshtml",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
+              "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:35:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_RightSideBar.cshtml",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
+              "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAYwIYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:33:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LeftSideBar.cshtml",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
+              "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T09:30:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_TopBar.cshtml",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_TopBar.cshtml",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_TopBar.cshtml",
@@ -38,8 +106,7 @@
               "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_TopBar.cshtml",
               "ViewState": "AgIAAJwAAAAAAAAAAAAYwLYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T09:23:10.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T09:23:10.819Z"
             },
             {
               "$type": "Document",
@@ -49,14 +116,14 @@
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-13T09:19:35.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Program.cs",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Program.cs",
@@ -64,8 +131,7 @@
               "RelativeToolTip": "AshkanCrm.Web\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T09:15:36.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T09:15:36.326Z"
             }
           ]
         }
