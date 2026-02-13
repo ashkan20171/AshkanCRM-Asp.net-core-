@@ -6149,9 +6149,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
+      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
       "projectName": "AshkanCrm.Web",
-      "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
+      "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
       "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
       "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\obj\\",
       "projectStyle": "PackageReference",
@@ -6176,14 +6176,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
-              "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj"
+            "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
+              "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj"
             },
-            "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
-              "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj"
+            "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
+              "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj"
             },
-            "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
-              "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj"
+            "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
+              "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj"
             }
           }
         }

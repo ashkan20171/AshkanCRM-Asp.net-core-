@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {}
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {}
   },
   "projects": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
         "projectName": "AshkanCrm.Data",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\obj\\",
+        "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",

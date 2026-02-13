@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj": {}
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj": {}
   },
   "projects": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj",
         "projectName": "AshkanCrm.Application",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
         "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -345,14 +345,14 @@
         }
       }
     },
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
         "projectName": "AshkanCrm.Data",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\obj\\",
+        "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -708,12 +708,12 @@
         }
       }
     },
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
         "projectName": "AshkanCrm.Domain",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
         "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -1049,14 +1049,14 @@
         }
       }
     },
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
         "projectName": "AshkanCrm.Web",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\obj\\",
+        "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1079,14 +1079,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
-                "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Application\\AshkanCrm.Application.csproj"
+              "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj": {
+                "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Application\\AshkanCrm.Application.csproj"
               },
-              "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
-                "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj"
+              "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj": {
+                "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj"
               },
-              "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
-                "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj"
+              "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
+                "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj"
               }
             }
           }

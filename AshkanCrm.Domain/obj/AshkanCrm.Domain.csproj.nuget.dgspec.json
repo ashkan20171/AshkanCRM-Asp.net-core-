@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {}
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {}
   },
   "projects": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
         "projectName": "AshkanCrm.Domain",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
         "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\obj\\",
         "projectStyle": "PackageReference",

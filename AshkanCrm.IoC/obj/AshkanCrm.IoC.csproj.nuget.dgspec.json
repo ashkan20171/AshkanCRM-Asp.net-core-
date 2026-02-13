@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj": {}
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj": {}
   },
   "projects": {
-    "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj": {
+    "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj",
+        "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj",
         "projectName": "AshkanCrm.IoC",
-        "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj",
+        "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.IoC\\AshkanCrm.IoC.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
         "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.IoC\\obj\\",
         "projectStyle": "PackageReference",

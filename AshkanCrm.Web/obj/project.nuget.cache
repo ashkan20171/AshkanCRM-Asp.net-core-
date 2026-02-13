@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PlLisK8mSYg=",
+  "dgSpecHash": "voFb/fYtbjo=",
   "success": true,
-  "projectFilePath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
+  "projectFilePath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashkan2025\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ashkan2025\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

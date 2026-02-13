@@ -1,0 +1,12 @@
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\bin\Debug\net10.0\AshkanCrm.IoC.deps.json
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\bin\Debug\net10.0\AshkanCrm.IoC.dll
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\bin\Debug\net10.0\AshkanCrm.IoC.pdb
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.AssemblyInfoInputs.cache
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.AssemblyInfo.cs
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.csproj.CoreCompileInputs.cache
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.sourcelink.json
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.dll
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\refint\AshkanCrm.IoC.dll
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\AshkanCrm.IoC.pdb
+E:\project\Asp.net\AshkanCRM\AshkanCrm.IoC\obj\Debug\net10.0\ref\AshkanCrm.IoC.dll
