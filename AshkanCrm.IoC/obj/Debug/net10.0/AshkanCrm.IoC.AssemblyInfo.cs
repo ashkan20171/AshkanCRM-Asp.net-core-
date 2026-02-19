@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AshkanCrm.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf670cfe798a32c3be333b4d767939efc7857b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a960fce9bca18096054157ec8e5430c5f6f9a8f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AshkanCrm.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AshkanCrm.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

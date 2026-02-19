@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AshkanCrm.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc2738ac2d7c3784eee912db0ef276f352c9464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a960fce9bca18096054157ec8e5430c5f6f9a8f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AshkanCrm.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AshkanCrm.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,6 @@ E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\obj\Debug\net10.0\refint\AshkanCrm.D
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.pdb
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\obj\Debug\net10.0\AshkanCrm.Data.genruntimeconfig.cache
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\obj\Debug\net10.0\ref\AshkanCrm.Data.dll
+E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Domain.dll
+E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\bin\Debug\net10.0\AshkanCrm.Domain.pdb
+E:\project\Asp.net\AshkanCRM\AshkanCrm.Data\obj\Debug\net10.0\AshkanCr.F17929EA.Up2Date

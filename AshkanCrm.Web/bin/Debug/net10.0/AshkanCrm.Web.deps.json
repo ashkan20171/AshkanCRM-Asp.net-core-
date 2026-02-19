@@ -1859,6 +1859,7 @@
       },
       "AshkanCrm.Data/1.0.0": {
         "dependencies": {
+          "AshkanCrm.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "10.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.3"
         },

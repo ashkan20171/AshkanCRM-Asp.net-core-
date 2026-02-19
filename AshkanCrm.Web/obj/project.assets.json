@@ -2329,6 +2329,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "AshkanCrm.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "10.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.3"
         },
@@ -6153,7 +6154,7 @@
       "projectName": "AshkanCrm.Web",
       "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\AshkanCrm.Web.csproj",
       "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\obj\\",
+      "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",

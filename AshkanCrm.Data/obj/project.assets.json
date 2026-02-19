@@ -1245,6 +1245,16 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "AshkanCrm.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/AshkanCrm.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AshkanCrm.Domain.dll": {}
+        }
       }
     }
   },
@@ -3649,10 +3659,16 @@
         "system.security.cryptography.protecteddata.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "AshkanCrm.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AshkanCrm.Domain/AshkanCrm.Domain.csproj",
+      "msbuildProject": "../AshkanCrm.Domain/AshkanCrm.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "AshkanCrm.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 10.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.3",
@@ -3667,11 +3683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
       "projectName": "AshkanCrm.Data",
-      "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
+      "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\AshkanCrm.Data.csproj",
       "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\obj\\",
+      "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3693,7 +3709,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj": {
+              "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

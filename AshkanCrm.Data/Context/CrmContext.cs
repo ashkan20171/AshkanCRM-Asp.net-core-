@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AshkanCrm.Domain.Entities.Account;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 
 namespace MyCrm.Web
 {
@@ -9,7 +11,15 @@ namespace MyCrm.Web
         {
         }
 
-        // نمونه:
-        // public DbSet<Customer> Customers { get; set; }
+        #region DB Set
+
+        public DbSet<User> Users { get; set; }
+
+        public DbSet<Marketer> Marketers { get; set; }
+
+        public DbSet<Customer> Customers { get; set; }
+
+        #endregion
+
     }
 }

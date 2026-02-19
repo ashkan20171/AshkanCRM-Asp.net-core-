@@ -11,7 +11,7 @@
         "projectName": "AshkanCrm.Domain",
         "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
         "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-        "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\obj\\",
+        "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",
