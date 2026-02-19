@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AshkanCrm.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe4076c8f1345522ac53242c34f30dd878d75f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bb460a6393902deeb10e6030b3dfda6e72f29c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AshkanCrm.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AshkanCrm.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

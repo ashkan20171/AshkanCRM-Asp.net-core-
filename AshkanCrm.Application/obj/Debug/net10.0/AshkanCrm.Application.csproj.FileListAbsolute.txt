@@ -1,12 +1,5 @@
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\bin\Debug\net10.0\AshkanCrm.Application.deps.json
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\bin\Debug\net10.0\AshkanCrm.Application.dll
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\bin\Debug\net10.0\AshkanCrm.Application.pdb
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.GeneratedMSBuildEditorConfig.editorconfig
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.AssemblyInfoInputs.cache
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.AssemblyInfo.cs
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.csproj.CoreCompileInputs.cache
 E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.sourcelink.json
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.dll
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\refint\AshkanCrm.Application.dll
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\AshkanCrm.Application.pdb
-E:\project\Asp.net\AshkanCRM\AshkanCrm.Application\obj\Debug\net10.0\ref\AshkanCrm.Application.dll
