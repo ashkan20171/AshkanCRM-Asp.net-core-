@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\project\\Asp.net\\AshkanCrm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.domain\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|solutionrelative:ashkancrm.domain\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CB27DB-A7E5-E917-C5A0-022C79AD19D8}|AshkanCrm.Data\\AshkanCrm.Data.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.data\\context\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86CB27DB-A7E5-E917-C5A0-022C79AD19D8}|AshkanCrm.Data\\AshkanCrm.Data.csproj|solutionrelative:ashkancrm.data\\context\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.domain\\entities\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|solutionrelative:ashkancrm.domain\\entities\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.domain\\entities\\account\\marketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|solutionrelative:ashkancrm.domain\\entities\\account\\marketer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,6 +29,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_chatlauncher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_chatlauncher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CB27DB-A7E5-E917-C5A0-022C79AD19D8}|AshkanCrm.Data\\AshkanCrm.Data.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.data\\context\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CB27DB-A7E5-E917-C5A0-022C79AD19D8}|AshkanCrm.Data\\AshkanCrm.Data.csproj|solutionrelative:ashkancrm.data\\context\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.domain\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|solutionrelative:ashkancrm.domain\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.domain\\entities\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63C8B7-0AB6-DA7E-5316-B2F208980419}|AshkanCrm.Domain\\AshkanCrm.Domain.csproj|solutionrelative:ashkancrm.domain\\entities\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_rightsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|e:\\project\\asp.net\\ashkancrm\\ashkancrm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7CD83F-412F-B5F7-6421-048A09A9B09A}|AshkanCrm.Web\\AshkanCrm.Web.csproj|solutionrelative:ashkancrm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,60 +66,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\User.cs",
-              "RelativeDocumentMoniker": "AshkanCrm.Domain\\Entities\\Account\\User.cs",
-              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\User.cs",
-              "RelativeToolTip": "AshkanCrm.Domain\\Entities\\Account\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T05:57:01.263Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\appsettings.json",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\appsettings.json",
+              "RelativeToolTip": "AshkanCrm.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T09:13:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20260219091015_InitialDB.cs",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs",
+              "RelativeDocumentMoniker": "AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs",
+              "RelativeToolTip": "AshkanCrm.Data\\Migrations\\20260219091015_InitialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:10:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Startup.cs",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Startup.cs",
+              "RelativeToolTip": "AshkanCrm.Web\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA6wCMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T09:09:57.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CrmContext.cs",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\Context\\CrmContext.cs",
               "RelativeDocumentMoniker": "AshkanCrm.Data\\Context\\CrmContext.cs",
               "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Data\\Context\\CrmContext.cs",
               "RelativeToolTip": "AshkanCrm.Data\\Context\\CrmContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T11:32:30.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\Customer.cs",
               "RelativeDocumentMoniker": "AshkanCrm.Domain\\Entities\\Account\\Customer.cs",
               "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\Customer.cs",
               "RelativeToolTip": "AshkanCrm.Domain\\Entities\\Account\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T11:31:47.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Marketer.cs",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\Marketer.cs",
               "RelativeDocumentMoniker": "AshkanCrm.Domain\\Entities\\Account\\Marketer.cs",
               "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\Marketer.cs",
               "RelativeToolTip": "AshkanCrm.Domain\\Entities\\Account\\Marketer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T11:31:23.317Z",
               "EditorCaption": ""
@@ -122,7 +160,8 @@
               "RelativeToolTip": "AshkanCrm.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAANkCAAAAAAAAAAAYwPMCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T09:37:54.809Z"
+              "WhenOpened": "2026-02-13T09:37:54.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,13 +171,14 @@
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
               "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
               "RelativeToolTip": "AshkanCrm.Web\\Views\\Shared\\_ChatLauncher.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwD4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-13T09:35:20.57Z"
+              "WhenOpened": "2026-02-13T09:35:20.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_RightSideBar.cshtml",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_RightSideBar.cshtml",
@@ -150,7 +190,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AshkanCrm.Web\\Program.cs",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Program.cs",
+              "RelativeToolTip": "AshkanCrm.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:15:36.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\User.cs",
+              "RelativeDocumentMoniker": "AshkanCrm.Domain\\Entities\\Account\\User.cs",
+              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\Entities\\Account\\User.cs",
+              "RelativeToolTip": "AshkanCrm.Domain\\Entities\\Account\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:52:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_LeftSideBar.cshtml",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_LeftSideBar.cshtml",
@@ -162,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "_TopBar.cshtml",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_TopBar.cshtml",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_TopBar.cshtml",
@@ -174,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AshkanCrm.Web\\Views\\Shared\\_Layout.cshtml",
@@ -183,18 +249,6 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-13T09:19:35.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Program.cs",
-              "RelativeDocumentMoniker": "AshkanCrm.Web\\Program.cs",
-              "ToolTip": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Web\\Program.cs",
-              "RelativeToolTip": "AshkanCrm.Web\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T09:15:36.326Z"
             }
           ]
         }
