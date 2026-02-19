@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AshkanCrm.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29e2af2bc08083e76bd3239cbbfa9382bddeaf0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe4076c8f1345522ac53242c34f30dd878d75f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AshkanCrm.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AshkanCrm.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

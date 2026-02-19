@@ -3,10 +3,9 @@
 
 <!-- Mirrored from www.wrraptheme.com/templates/compass/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jul 2019 10:22:38 GMT -->
 <head>
-   <partial name="_MetaTags"></partial>
+    <partial name="_MetaTags"></partial>
     <title>نرم افزار CRM - @ViewData["Title"]</title>
-
-   <partial name="_headerRefrences" />
+    <partial name="_HeaderRefrences" />
 </head>
 <body class="theme-cyan">
     <!-- Page Loader -->
@@ -20,21 +19,24 @@
     <div class="overlay"></div>
 
     <!-- Top Bar -->
-    <partial name="_TopBar" />
+    <partial name="_TopBar"/>
 
-    <!-- Left Sidebar -->
-   <partial name="_LeftSideBar" />
 
     <!-- Right Sidebar -->
-   <partial name="_RightSideBar" />
+    <partial name="_RightSideBar"/>
+
+    <!-- Left Sidebar -->
+    <partial name="_LeftSideBar" />
 
     <!-- Chat-launcher -->
-   <partial name="_ChatLauncher" />
+    <partial name="_ChatLauncher"/>
 
     <!-- Main Content -->
-   @RenderBody()
+    <section class="content">
+    @RenderBody()
+    </section>
     <!-- Jquery Core Js -->
-   <partial name="_FooterRefrences" />
+    <partial name="_FooterRefrences" />
 </body>
 
 <!-- Mirrored from www.wrraptheme.com/templates/compass/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jul 2019 10:22:48 GMT -->

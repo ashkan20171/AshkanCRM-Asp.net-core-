@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+      "projectUniqueName": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
       "projectName": "AshkanCrm.Domain",
-      "projectPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
+      "projectPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\AshkanCrm.Domain.csproj",
       "packagesPath": "C:\\Users\\ashkan2025\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\Asp.net\\AshkanCrm\\AshkanCrm.Domain\\obj\\",
+      "outputPath": "E:\\project\\Asp.net\\AshkanCRM\\AshkanCrm.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\86\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
